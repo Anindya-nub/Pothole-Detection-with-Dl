@@ -1,4 +1,4 @@
-# Pothole Detection || Pothole Detection using python and yolov8
+# Pothole Detection | Pothole Detection using python and Deep Learning
 
 
 - Clone repository.
