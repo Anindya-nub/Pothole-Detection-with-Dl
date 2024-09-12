@@ -1,26 +1,24 @@
 # Pothole Detection || Pothole Detection using python and yolov8
 
 
-
-### Steps to run Code
-- Clone the repository.
+- Clone repository.
 ```
 https://github.com/Anindya-nub/Pothole-Detection-with-Dl.git
 ```
-- Goto the cloned folder.
+- cloned folder.
 ```
 cd Pothole-Detection-Pothole-Detection-using-python-and-deep-learning
 
 ```
-- Upgrade pip with the mentioned command below.
+- Upgrade pip 
 ```
 pip install --upgrade pip
 ```
-- Install requirements with the mentioned command below.
+- requirements
 ```
 pip install -r requirements.txt
 ```
-- Run the code with the mentioned command below.
+- Run code
 
  - Run for webcam
  
@@ -32,5 +30,3 @@ pip install -r requirements.txt
 
 
 download weight: https://drive.google.com/drive/folders/1T1h2WH3_wrNb0foJuDw8w33Br_2kZjnS?usp=share_link
-
-
