@@ -5,9 +5,7 @@
 ```
 https://github.com/Anindya-nub/Pothole-Detection-with-Dl.git
 ```
-- cloned folder.
-```
-cd Pothole-Detection-Pothole-Detection-using-python-and-deep-learning
+
 
 ```
 - Upgrade pip 
